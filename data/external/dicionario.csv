@@ -4,7 +4,7 @@ NationalITy,Nacionalidade do aluno,Qualitativa,Nominal
 PlaceofBirth,Local de nascimento do aluno,Qualitativa,Nominal	
 StageID,Nível de escolaridade a que o aluno pertence,Qualitativa,Ordinal	
 GradeID,A série em que o aluno está matriculado,Qualitativa,Ordinal
-SectionID,Sala de aula à qual o aluno pertence,Qualitativa,Nominal,
+SectionID,Sala de aula à qual o aluno pertence,Qualitativa,Nominal
 Topic,Tópico do curso,Qualitativa,Nominal,
 Semester,Semestre do ano letivo,Qualitativa,Ordinal	
 Relation,Progenitor responsável pelo aluno,Qualitativa,Nominal
