@@ -1,5 +1,5 @@
 variavel,significado,tipo,subtipo,Resposta
-Gender,Gênero do aluno,Qualitativa,Nominal,,False
+Gender,Gênero do aluno,Qualitativa,Nominal,False
 NationalITy,Nacionalidade do aluno,Qualitativa,Nominal,False
 PlaceofBirth,Local de nascimento do aluno,Qualitativa,Nominal,False
 StageID,Nível de escolaridade a que o aluno pertence,Qualitativa,Ordinal,False	
