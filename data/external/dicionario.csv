@@ -1,4 +1,4 @@
-variavel,significado,tipo,subtipo,Resposta
+variavel,significado,tipo,subtipo,resposta
 Gender,Gênero do aluno,Qualitativa,Nominal,False
 NationalITy,Nacionalidade do aluno,Qualitativa,Nominal,False
 PlaceofBirth,Local de nascimento do aluno,Qualitativa,Nominal,False
