@@ -1,0 +1,25 @@
+variavel,significado,tipo,subtipo
+Gender,Gênero do aluno,Qualitativa,Nominal
+NationalITy,Nacionalidade do aluno,Qualitativa,Nominal
+PlaceofBirth,Local de nascimento do aluno,Qualitativa,Nominal	
+StageID,Nível de escolaridade a que o aluno pertence,Qualitativa,Ordinal	
+GradeID,A série em que o aluno está matriculado,Qualitativa,Ordinal
+SectionID,Sala de aula à qual o aluno pertence,Qualitativa,Nominal,
+Topic,Tópico do curso,Qualitativa,Nominal,
+Semester,Semestre do ano letivo,Qualitativa,Ordinal	
+Relation,Progenitor responsável pelo aluno,Qualitativa,Nominal
+raisedhands,Número de vezes que o aluno levantou a mão,Quantitativa,Discreta
+VisITedResources,Número de vezes que o aluno visitou o conteúdo do curso,Quantitativa,Discreta	
+AnnouncementsView,Número de vezes que o aluno conferiu os anúncios,	Quantitativa,Discreta
+Discussion,Número de vezes que o aluno participou de discussões em grupo,Quantitativa,Discreta	
+ParentAnsweringSurvey,Se os pais responderam à pesquisa,Qualitativa,Nominal	
+ParentschoolSatisfaction,O grau de satisfação dos pais com a escola,Qualitativa,Nominal	
+StudentAbsenceDays,Número de dias que um aluno esteve ausente,Qualitativa,Ordinal	
+Class,Indicador de desempenho do aluno,Qualitativa,Ordinal
+
+
+
+
+
+
+
