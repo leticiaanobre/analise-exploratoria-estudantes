@@ -1,19 +1,19 @@
 variavel,significado,tipo,subtipo,resposta
-Gender,Gênero do aluno,Qualitativa,Nominal,False
+gender,Gênero do aluno,Qualitativa,Nominal,False
 NationalITy,Nacionalidade do aluno,Qualitativa,Nominal,False
 PlaceofBirth,Local de nascimento do aluno,Qualitativa,Nominal,False
-StageID,Nível de escolaridade a que o aluno pertence,Qualitativa,Ordinal,False	
+StageID,Nível de escolaridade a que o aluno pertence,Qualitativa,Ordinal,False
 GradeID,A série em que o aluno está matriculado,Qualitativa,Ordinal,False
 SectionID,Sala de aula à qual o aluno pertence,Qualitativa,Nominal,False
 Topic,Tópico do curso,Qualitativa,Nominal,False
 Semester,Semestre do ano letivo,Qualitativa,Ordinal,False
 Relation,Progenitor responsável pelo aluno,Qualitativa,Nominal,False
 raisedhands,Número de vezes que o aluno levantou a mão,Quantitativa,Discreta,False
-VisITedResources,Número de vezes que o aluno visitou o conteúdo do curso,Quantitativa,Discreta,False	
+VisITedResources,Número de vezes que o aluno visitou o conteúdo do curso,Quantitativa,Discreta,False
 AnnouncementsView,Número de vezes que o aluno conferiu os anúncios,Quantitativa,Discreta,False
-Discussion,Número de vezes que o aluno participou de discussões em grupo,Quantitativa,Discreta,False	
+Discussion,Número de vezes que o aluno participou de discussões em grupo,Quantitativa,Discreta,False
 ParentAnsweringSurvey,Se os pais responderam à pesquisa,Qualitativa,Nominal,False
-ParentschoolSatisfaction,O grau de satisfação dos pais com a escola,Qualitativa,Nominal,False	
+ParentschoolSatisfaction,O grau de satisfação dos pais com a escola,Qualitativa,Nominal,False
 StudentAbsenceDays,Número de dias que um aluno esteve ausente,Qualitativa,Ordinal,False
 Class,Indicador de desempenho do aluno,Qualitativa,Ordinal,True
 
