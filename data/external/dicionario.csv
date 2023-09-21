@@ -10,7 +10,7 @@ Semester,Semestre do ano letivo,Qualitativa,Ordinal
 Relation,Progenitor responsável pelo aluno,Qualitativa,Nominal
 raisedhands,Número de vezes que o aluno levantou a mão,Quantitativa,Discreta
 VisITedResources,Número de vezes que o aluno visitou o conteúdo do curso,Quantitativa,Discreta	
-AnnouncementsView,Número de vezes que o aluno conferiu os anúncios,	Quantitativa,Discreta
+AnnouncementsView,Número de vezes que o aluno conferiu os anúncios,Quantitativa,Discreta
 Discussion,Número de vezes que o aluno participou de discussões em grupo,Quantitativa,Discreta	
 ParentAnsweringSurvey,Se os pais responderam à pesquisa,Qualitativa,Nominal	
 ParentschoolSatisfaction,O grau de satisfação dos pais com a escola,Qualitativa,Nominal	
