@@ -1,5 +1,6 @@
-# <Performance acadêmica de estudantes>
+# Performance acadêmica de estudantes
 
+## Resumo
 Este estudo tem como objetivo identificar os fatores e até que ponto eles afetam no sucesso acadêmico de um aluno. O conjunto de dados é composto por 17 colunas que abrangem várias categorias, como:
 
 * Características demográficas como género e nacionalidade.
