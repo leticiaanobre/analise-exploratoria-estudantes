@@ -23,4 +23,4 @@ Dessa forma, tentaremos explorar e observar as relações desses recursos com a 
 ---
 
 ## Resumo gráfico
-<img src="/assets/img/arquivo.gif">
+<img src="/img/assets/resumo-grafico.png">
