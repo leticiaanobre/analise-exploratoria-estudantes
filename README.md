@@ -13,7 +13,7 @@ O desempenho do aluno é medido pela variável "Class", que é dividida em três
 * M - Indicando nível médio com pontuação entre 70 e 89.
 * H - Indicando nível alto com pontuação superior a 89 em seus testes.
 
-Dessa forma, tentaremos explorar e observar as relações desses recursos com a variável de classe (nossa resposta). Isso permitirá que encontremos quais fatores impactam consideravelmente no rendimento dos alunos. Essa exploração inicial dos dados pode nos ajudar a maximizar os insights sobre o conjunto de dados, extraindo variáveis ​​importantes e, assim, ser fundamental no desenvolvimento de modelos parsiomáticos. Como "Class" é uma variável categórica, também podemos utilizar técnicas de classificação de aprendizagem supervisionada para prever o nivel de rendimento de novos alunos com base no conjunto de caracteristicas que eles possuem. Utilizaremos os modelos de regressão linear, KNN,florestas aleatórias e regressão logística.
+Dessa forma, tentaremos explorar e observar as relações desses recursos com a variável de classe (nossa resposta). Isso permitirá que encontremos quais fatores impactam consideravelmente no rendimento dos alunos. Essa exploração inicial dos dados pode nos ajudar a maximizar os insights sobre o conjunto de dados, extraindo variáveis ​​importantes e, assim, ser fundamental no desenvolvimento de modelos parsiomáticos. Como "Class" é uma variável categórica, também podemos utilizar técnicas de classificação de aprendizagem supervisionada para prever o nivel de rendimento de novos alunos com base no conjunto de caracteristicas que eles possuem. Utilizaremos os modelos de Linear Regression, K-Nearest-Neighbors, Random Forest Classifier, Logistic Regression.
 
 ## Resumo gráfico
 <img src="/img/assets/resumo-grafico.png">
